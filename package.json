@@ -4,7 +4,7 @@
   "description": "A course about testing by School Talking about testing",
   "main": "index.js",
   "scripts": {
-    "test": "cypress run"
+    "test": "npx cypress open"
   },
   "repository": {
     "type": "git",
